@@ -1,0 +1,8 @@
+{
+	"name": "Dr. Sudoku",
+	"description": "Sudoku looks like a math problem, but it's not. The rules are simple: start with a grid consisting of nine three-by-three squares in which some of the numbers are already supplied. Fill in the blank squares so that each column, row, and three-by-three grid contains a number from 1 to 9 with none repeated. The game features hundreds of puzzle problems, a tutorial mode, help for those moments when you really are stuck, the ability to 'pencil in' possible solutions, and a puzzle problem creation mode.",
+	"released": "May3, 2006",
+	"developer": "Success",
+	"genre": "Miscellaneous, Puzzle, Logic",
+	"cover": "https://andr3carvalh0.github.io/mGBA_Database/Covers/72066_front.jpg"
+}
