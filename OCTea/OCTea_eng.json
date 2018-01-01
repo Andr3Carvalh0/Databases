@@ -1,0 +1,299 @@
+[
+	{
+		"name": "White",
+		"temperature": [85],
+		"needs_washing": 1,
+		"styles": [{
+				"name": "Gongfu",
+				"amount": [3.5, 4],
+				"first_infusion": 20,
+				"inc_per_infusion": 10,
+				"n_infusions": 5
+			},
+			{
+				"name": "Western",
+				"amount": 0.6,
+				"first_infusion": 180,
+				"inc_per_infusion": 60,
+				"n_infusions": 2
+			}
+		]
+	},
+	{
+		"name": "Green",
+		"temperature": [80],
+		"needs_washing": 1,
+		"styles":[{
+				"name": "Gongfu",
+				"amount": [3, 3.5],
+				"first_infusion": 15,
+				"inc_per_infusion": 3,
+				"n_infusions": 5
+			},
+			{
+				"name": "Western",
+				"amount": 0.5,
+				"first_infusion": 120,
+				"inc_per_infusion": 60,
+				"n_infusions": 2
+			}
+		]
+	},
+	{
+		"name": "Yellow",
+		"temperature": [85],
+		"needs_washing": 1,
+		"styles": [{
+				"name": "Gongfu",
+				"amount": [3.5, 4],
+				"first_infusion": 15,
+				"inc_per_infusion": 5,
+				"n_infusions": 5
+			},
+			{
+				"name": "Western",
+				"amount": 0.6,
+				"first_infusion": 120,
+				"inc_per_infusion": 60,
+				"n_infusions": 2
+			}
+		]
+	},
+	{
+		"name": "Oolong (strip)",
+		"temperature": [99],
+		"needs_washing": 0,
+		"styles": [{
+				"name": "Gongfu",
+				"amount": [4.5, 5],
+				"first_infusion": 20,
+				"inc_per_infusion": 5,
+				"n_infusions": 9
+			},
+			{
+				"name": "Western",
+				"amount": 0.8,
+				"first_infusion": 120,
+				"inc_per_infusion": 30,
+				"n_infusions": 4
+			}
+		]
+	},
+	{
+		"name": "Oolong (ball)",
+		"temperature": [99],
+		"needs_washing": 0,
+		"styles": [{
+				"name": "Gongfu",
+				"amount": [6, 6.5],
+				"first_infusion": 25,
+				"inc_per_infusion": 5,
+				"n_infusions": 9
+			},
+			{
+				"name": "Western",
+				"amount": 1,
+				"first_infusion": 120,
+				"inc_per_infusion": 30,
+				"n_infusions": 5
+			}
+		]
+	},
+	{
+		"name": "Black (small leaf)",
+		"temperature": [90],
+		"needs_washing": 0,
+		"styles": [{
+				"name": "Gongfu",
+				"amount": [4.5],
+				"first_infusion": 10,
+				"inc_per_infusion": 5,
+				"n_infusions": 8
+			},
+			{
+				"name": "Western",
+				"amount": 0.8,
+				"first_infusion": 120,
+				"inc_per_infusion": 60,
+				"n_infusions": 4
+			}
+		]
+	},
+	{
+		"name": "Black (large leaf)",
+		"temperature": [95],
+		"needs_washing": 0,
+		"styles": [{
+				"name": "gongfu",
+				"amount": [4],
+				"first_infusion": 15,
+				"inc_per_infusion": 5,
+				"n_infusions": 8
+			},
+			{
+				"name": "Western",
+				"amount": 0.7,
+				"first_infusion": 120,
+				"inc_per_infusion": 60,
+				"n_infusions": 4
+			}
+		]
+	},
+	{
+		"name": "Pu Erh (raw)",
+		"temperature": [95],
+		"needs_washing": 0,
+		"styles": [{
+				"name": "Gongfu",
+				"amount": [5],
+				"first_infusion": 10,
+				"inc_per_infusion": 3,
+				"n_infusions": 15
+			},
+			{
+				"name": "Western",
+				"amount": 0.9,
+				"first_infusion": 120,
+				"inc_per_infusion": 30,
+				"n_infusions": 6
+			}
+		]
+	},
+	{
+		"name": "Pu Erh (ripe)",
+		"temperature": [99],
+		"needs_washing": 0,
+		"styles": [{
+				"name": "Gongfu",
+				"amount": [5],
+				"first_infusion": 10,
+				"inc_per_infusion": 5,
+				"n_infusions": 20
+			},
+			{
+				"name": "Western",
+				"amount": 0.9,
+				"first_infusion": 120,
+				"inc_per_infusion": 30,
+				"n_infusions": 6
+			}
+		]
+	},
+	{
+		"name": "Gyokuro",
+		"temperature": [60],
+		"needs_washing": 1,
+		"styles": [{
+				"name": "Japanese",
+				"amount": [12.5],
+				"first_infusion": 90,
+				"inc_per_infusion": 0,
+				"n_infusions": 3
+			}
+		]
+	},
+	{
+		"name": "Sencha",
+		"temperature": [75, 80],
+		"needs_washing": 1,
+		"styles": [{
+				"name": "Japanese",
+				"amount": 4.8,
+				"first_infusion": 60,
+				"inc_per_infusion": 0,
+				"n_infusions": 3
+			}
+		]
+	},
+	{
+		"name": "Hojicha",
+		"temperature": [99],
+		"needs_washing": 1,
+		"styles": [{
+				"name": "Japanese",
+				"amount": 4.2,
+				"first_infusion": 30,
+				"inc_per_infusion": 0,
+				"n_infusions": 3
+			}
+		]
+	},
+	{
+		"name": "Kuki Hojicha",
+		"temperature": [99],
+		"needs_washing": 1,
+		"styles": [{
+				"name": "Japanese",
+				"amount": 4.2,
+				"first_infusion": 30,
+				"inc_per_infusion": 0,
+				"n_infusions": 3
+			}
+		]
+	},
+	{
+		"name": "Genmaicha",
+		"temperature": [99],
+		"needs_washing": 1,
+		"styles": [{
+				"name": "Japanese",
+				"amount": 4.2,
+				"first_infusion": 30,
+				"inc_per_infusion": 0,
+				"n_infusions": 3
+			}
+		]
+	},
+	{
+		"name": "Wakanayagi",
+		"temperature": [99],
+		"needs_washing": 1,
+		"styles": [{
+				"name": "Japanese",
+				"amount": 4.2,
+				"first_infusion": 30,
+				"inc_per_infusion": 0,
+				"n_infusions": 3
+			}
+		]
+	},
+	{
+		"name": "Shibafune",
+		"temperature": [99],
+		"needs_washing": 1,
+		"styles": [{
+				"name": "Japanese",
+				"amount": 4.2,
+				"first_infusion": 30,
+				"inc_per_infusion": 0,
+				"n_infusions": 3
+			}
+		]
+	},
+	{
+		"name": "Iribancha",
+		"temperature": [99],
+		"needs_washing": 1,
+		"styles": [{
+				"name": "Japanese",
+				"amount": 2.5,
+				"first_infusion": 600,
+				"inc_per_infusion": 0,
+				"n_infusions": 3
+			}
+		]
+	},
+	{
+		"name": "Mugicha",
+		"temperature": [99],
+		"needs_washing": 1,
+		"styles": [{
+				"name": "Japanese",
+				"amount": 3,
+				"first_infusion": 1800,
+				"inc_per_infusion": 0,
+				"n_infusions": 3
+			}
+		]
+	}
+]
