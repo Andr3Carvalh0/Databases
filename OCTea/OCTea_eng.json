@@ -2,7 +2,7 @@
 	{
 		"name": "White",
 		"temperature": [85],
-		"needs_washing": 1,
+		"needs_washing": true,
 		"styles": [{
 				"name": "Gongfu",
 				"amount": [3.5, 4],
@@ -22,7 +22,7 @@
 	{
 		"name": "Green",
 		"temperature": [80],
-		"needs_washing": 1,
+		"needs_washing": true,
 		"styles":[{
 				"name": "Gongfu",
 				"amount": [3, 3.5],
@@ -42,7 +42,7 @@
 	{
 		"name": "Yellow",
 		"temperature": [85],
-		"needs_washing": 1,
+		"needs_washing": true,
 		"styles": [{
 				"name": "Gongfu",
 				"amount": [3.5, 4],
@@ -62,7 +62,7 @@
 	{
 		"name": "Oolong (strip)",
 		"temperature": [99],
-		"needs_washing": 0,
+		"needs_washing": false,
 		"styles": [{
 				"name": "Gongfu",
 				"amount": [4.5, 5],
@@ -82,7 +82,7 @@
 	{
 		"name": "Oolong (ball)",
 		"temperature": [99],
-		"needs_washing": 0,
+		"needs_washing": false,
 		"styles": [{
 				"name": "Gongfu",
 				"amount": [6, 6.5],
@@ -102,7 +102,7 @@
 	{
 		"name": "Black (small leaf)",
 		"temperature": [90],
-		"needs_washing": 0,
+		"needs_washing": false,
 		"styles": [{
 				"name": "Gongfu",
 				"amount": [4.5],
@@ -122,7 +122,7 @@
 	{
 		"name": "Black (large leaf)",
 		"temperature": [95],
-		"needs_washing": 0,
+		"needs_washing": false,
 		"styles": [{
 				"name": "gongfu",
 				"amount": [4],
@@ -142,7 +142,7 @@
 	{
 		"name": "Pu Erh (raw)",
 		"temperature": [95],
-		"needs_washing": 0,
+		"needs_washing": false,
 		"styles": [{
 				"name": "Gongfu",
 				"amount": [5],
@@ -162,7 +162,7 @@
 	{
 		"name": "Pu Erh (ripe)",
 		"temperature": [99],
-		"needs_washing": 0,
+		"needs_washing": false,
 		"styles": [{
 				"name": "Gongfu",
 				"amount": [5],
@@ -182,7 +182,7 @@
 	{
 		"name": "Gyokuro",
 		"temperature": [60],
-		"needs_washing": 1,
+		"needs_washing": true,
 		"styles": [{
 				"name": "Japanese",
 				"amount": [12.5],
@@ -195,7 +195,7 @@
 	{
 		"name": "Sencha",
 		"temperature": [75, 80],
-		"needs_washing": 1,
+		"needs_washing": true,
 		"styles": [{
 				"name": "Japanese",
 				"amount": 4.8,
@@ -208,7 +208,7 @@
 	{
 		"name": "Hojicha",
 		"temperature": [99],
-		"needs_washing": 1,
+		"needs_washing": true,
 		"styles": [{
 				"name": "Japanese",
 				"amount": 4.2,
@@ -221,7 +221,7 @@
 	{
 		"name": "Kuki Hojicha",
 		"temperature": [99],
-		"needs_washing": 1,
+		"needs_washing": true,
 		"styles": [{
 				"name": "Japanese",
 				"amount": 4.2,
@@ -234,7 +234,7 @@
 	{
 		"name": "Genmaicha",
 		"temperature": [99],
-		"needs_washing": 1,
+		"needs_washing": true,
 		"styles": [{
 				"name": "Japanese",
 				"amount": 4.2,
@@ -247,7 +247,7 @@
 	{
 		"name": "Wakanayagi",
 		"temperature": [99],
-		"needs_washing": 1,
+		"needs_washing": true,
 		"styles": [{
 				"name": "Japanese",
 				"amount": 4.2,
@@ -260,7 +260,7 @@
 	{
 		"name": "Shibafune",
 		"temperature": [99],
-		"needs_washing": 1,
+		"needs_washing": true,
 		"styles": [{
 				"name": "Japanese",
 				"amount": 4.2,
@@ -273,7 +273,7 @@
 	{
 		"name": "Iribancha",
 		"temperature": [99],
-		"needs_washing": 1,
+		"needs_washing": true,
 		"styles": [{
 				"name": "Japanese",
 				"amount": 2.5,
@@ -286,7 +286,7 @@
 	{
 		"name": "Mugicha",
 		"temperature": [99],
-		"needs_washing": 1,
+		"needs_washing": true,
 		"styles": [{
 				"name": "Japanese",
 				"amount": 3,
