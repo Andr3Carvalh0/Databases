@@ -12,7 +12,7 @@
 			},
 			{
 				"name": "Western",
-				"amount": 0.6,
+				"amount": [0.6],
 				"first_infusion": 180,
 				"inc_per_infusion": 60,
 				"n_infusions": 2
@@ -32,7 +32,7 @@
 			},
 			{
 				"name": "Western",
-				"amount": 0.5,
+				"amount": [0.5],
 				"first_infusion": 120,
 				"inc_per_infusion": 60,
 				"n_infusions": 2
@@ -52,7 +52,7 @@
 			},
 			{
 				"name": "Western",
-				"amount": 0.6,
+				"amount": [0.6],
 				"first_infusion": 120,
 				"inc_per_infusion": 60,
 				"n_infusions": 2
@@ -72,7 +72,7 @@
 			},
 			{
 				"name": "Western",
-				"amount": 0.8,
+				"amount": [0.8],
 				"first_infusion": 120,
 				"inc_per_infusion": 30,
 				"n_infusions": 4
@@ -92,7 +92,7 @@
 			},
 			{
 				"name": "Western",
-				"amount": 1,
+				"amount": [1],
 				"first_infusion": 120,
 				"inc_per_infusion": 30,
 				"n_infusions": 5
@@ -112,7 +112,7 @@
 			},
 			{
 				"name": "Western",
-				"amount": 0.8,
+				"amount": [0.8],
 				"first_infusion": 120,
 				"inc_per_infusion": 60,
 				"n_infusions": 4
@@ -132,7 +132,7 @@
 			},
 			{
 				"name": "Western",
-				"amount": 0.7,
+				"amount": [0.7],
 				"first_infusion": 120,
 				"inc_per_infusion": 60,
 				"n_infusions": 4
@@ -152,7 +152,7 @@
 			},
 			{
 				"name": "Western",
-				"amount": 0.9,
+				"amount": [0.9],
 				"first_infusion": 120,
 				"inc_per_infusion": 30,
 				"n_infusions": 6
@@ -172,7 +172,7 @@
 			},
 			{
 				"name": "Western",
-				"amount": 0.9,
+				"amount": [0.9],
 				"first_infusion": 120,
 				"inc_per_infusion": 30,
 				"n_infusions": 6
@@ -198,7 +198,7 @@
 		"needs_washing": true,
 		"styles": [{
 				"name": "Japanese",
-				"amount": 4.8,
+				"amount": [4.8],
 				"first_infusion": 60,
 				"inc_per_infusion": 0,
 				"n_infusions": 3
@@ -211,7 +211,7 @@
 		"needs_washing": true,
 		"styles": [{
 				"name": "Japanese",
-				"amount": 4.2,
+				"amount": [4.2],
 				"first_infusion": 30,
 				"inc_per_infusion": 0,
 				"n_infusions": 3
@@ -224,7 +224,7 @@
 		"needs_washing": true,
 		"styles": [{
 				"name": "Japanese",
-				"amount": 4.2,
+				"amount": [4.2],
 				"first_infusion": 30,
 				"inc_per_infusion": 0,
 				"n_infusions": 3
@@ -237,7 +237,7 @@
 		"needs_washing": true,
 		"styles": [{
 				"name": "Japanese",
-				"amount": 4.2,
+				"amount": [4.2],
 				"first_infusion": 30,
 				"inc_per_infusion": 0,
 				"n_infusions": 3
@@ -250,7 +250,7 @@
 		"needs_washing": true,
 		"styles": [{
 				"name": "Japanese",
-				"amount": 4.2,
+				"amount": [4.2],
 				"first_infusion": 30,
 				"inc_per_infusion": 0,
 				"n_infusions": 3
@@ -263,7 +263,7 @@
 		"needs_washing": true,
 		"styles": [{
 				"name": "Japanese",
-				"amount": 4.2,
+				"amount": [4.2],
 				"first_infusion": 30,
 				"inc_per_infusion": 0,
 				"n_infusions": 3
@@ -276,7 +276,7 @@
 		"needs_washing": true,
 		"styles": [{
 				"name": "Japanese",
-				"amount": 2.5,
+				"amount": [2.5],
 				"first_infusion": 600,
 				"inc_per_infusion": 0,
 				"n_infusions": 3
@@ -289,7 +289,7 @@
 		"needs_washing": true,
 		"styles": [{
 				"name": "Japanese",
-				"amount": 3,
+				"amount": [3],
 				"first_infusion": 1800,
 				"inc_per_infusion": 0,
 				"n_infusions": 3
