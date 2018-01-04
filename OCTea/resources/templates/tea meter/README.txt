@@ -1,0 +1,1 @@
+The icon is a modification of Steve Wolf's icon (https://dribbble.com/shots/2300664-Wells-Coffee-Co)

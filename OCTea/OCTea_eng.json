@@ -3,6 +3,7 @@
 		"name": "White",
 		"temperature": [85],
 		"needs_washing": true,
+		"image": "/resources/white.png",
 		"styles": [{
 				"name": "Gongfu",
 				"amount": [3.5, 4],
@@ -23,6 +24,7 @@
 		"name": "Green",
 		"temperature": [80],
 		"needs_washing": true,
+		"image": "/resources/green.png",
 		"styles":[{
 				"name": "Gongfu",
 				"amount": [3, 3.5],
@@ -43,6 +45,7 @@
 		"name": "Yellow",
 		"temperature": [85],
 		"needs_washing": true,
+		"image": "/resources/yellow.png",
 		"styles": [{
 				"name": "Gongfu",
 				"amount": [3.5, 4],
@@ -63,6 +66,7 @@
 		"name": "Oolong (strip)",
 		"temperature": [99],
 		"needs_washing": false,
+		"image": "/resources/oolong_strip.png",
 		"styles": [{
 				"name": "Gongfu",
 				"amount": [4.5, 5],
@@ -83,6 +87,7 @@
 		"name": "Oolong (ball)",
 		"temperature": [99],
 		"needs_washing": false,
+		"image": "/resources/oolong_ball.png",
 		"styles": [{
 				"name": "Gongfu",
 				"amount": [6, 6.5],
@@ -103,6 +108,7 @@
 		"name": "Black (small leaf)",
 		"temperature": [90],
 		"needs_washing": false,
+		"image": "/resources/black_small_leaf.png",
 		"styles": [{
 				"name": "Gongfu",
 				"amount": [4.5],
@@ -123,6 +129,7 @@
 		"name": "Black (large leaf)",
 		"temperature": [95],
 		"needs_washing": false,
+		"image": "/resources/black_large_leaf.png",
 		"styles": [{
 				"name": "gongfu",
 				"amount": [4],
@@ -143,6 +150,7 @@
 		"name": "Pu Erh (raw)",
 		"temperature": [95],
 		"needs_washing": false,
+		"image": "/resources/pu_erh_raw.png",
 		"styles": [{
 				"name": "Gongfu",
 				"amount": [5],
@@ -163,6 +171,7 @@
 		"name": "Pu Erh (ripe)",
 		"temperature": [99],
 		"needs_washing": false,
+		"image": "/resources/pu_erh_ripe.png",
 		"styles": [{
 				"name": "Gongfu",
 				"amount": [5],
@@ -183,6 +192,7 @@
 		"name": "Gyokuro",
 		"temperature": [60],
 		"needs_washing": true,
+		"image": "/resources/gyokuro.png",
 		"styles": [{
 				"name": "Japanese",
 				"amount": [12.5],
@@ -196,6 +206,7 @@
 		"name": "Sencha",
 		"temperature": [75, 80],
 		"needs_washing": true,
+		"image": "/resources/sencha.png",
 		"styles": [{
 				"name": "Japanese",
 				"amount": [4.8],
@@ -209,6 +220,7 @@
 		"name": "Hojicha",
 		"temperature": [99],
 		"needs_washing": true,
+		"image": "/resources/hojicha.png",
 		"styles": [{
 				"name": "Japanese",
 				"amount": [4.2],
@@ -222,6 +234,7 @@
 		"name": "Kuki Hojicha",
 		"temperature": [99],
 		"needs_washing": true,
+		"image": "/resources/kuki_hojicha.png",
 		"styles": [{
 				"name": "Japanese",
 				"amount": [4.2],
@@ -235,6 +248,7 @@
 		"name": "Genmaicha",
 		"temperature": [99],
 		"needs_washing": true,
+		"image": "/resources/genmaicha.png",
 		"styles": [{
 				"name": "Japanese",
 				"amount": [4.2],
@@ -248,6 +262,7 @@
 		"name": "Wakanayagi",
 		"temperature": [99],
 		"needs_washing": true,
+		"image": "/resources/wakanayagi.png",
 		"styles": [{
 				"name": "Japanese",
 				"amount": [4.2],
@@ -261,6 +276,7 @@
 		"name": "Shibafune",
 		"temperature": [99],
 		"needs_washing": true,
+		"image": "/resources/shibafune.png",
 		"styles": [{
 				"name": "Japanese",
 				"amount": [4.2],
@@ -274,6 +290,7 @@
 		"name": "Iribancha",
 		"temperature": [99],
 		"needs_washing": true,
+		"image": "/resources/iribancha.png",
 		"styles": [{
 				"name": "Japanese",
 				"amount": [2.5],
@@ -287,6 +304,7 @@
 		"name": "Mugicha",
 		"temperature": [99],
 		"needs_washing": true,
+		"image": "/resources/mugicha.png",
 		"styles": [{
 				"name": "Japanese",
 				"amount": [3],
